@@ -1,0 +1,8 @@
+DB
+README.md
+dirlisting
+input.fasta
+main.nf
+nextflow.config
+out_dir
+test
